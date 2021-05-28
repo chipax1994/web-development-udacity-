@@ -1,0 +1,46 @@
+/*selector{
+	property:value;
+}*/
+
+*{
+	text-align: right;
+}
+
+h2{
+	color: blue;
+	text-align: center;
+	border: 5px solid red;
+	background-color: yellow opacity;
+	cursor: pointer;
+
+
+}
+
+
+
+body{
+	background-image: url(shitta.jpg);
+	background-size: cover;
+}
+
+li{
+	list-style: none;
+	display: inline-table;
+}
+
+.webtext  {
+	color: blue;
+	text-align: center;
+	border: 5px dashed red;
+	background-color: yellow opacity;
+	cursor: pointer;
+
+
+#div1   {
+	background: rgba(0,255,0);
+}	
+
+
+#div2   {
+	background: rgba(0,255,0);
+}	
